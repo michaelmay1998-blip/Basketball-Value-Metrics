@@ -1,0 +1,2 @@
+Analysis reveals that the "Mayscore" metric identifies high-performing players with strong efficiency and volume statistics, accurately predicting 4 out of the last 11 league MVPs.
+The divergence between the "Mayscore" leader and the actual MVP winner highlights that NBA MVP voting is heavily influenced by non-statistical factors, such as team success and media-driven narratives, which are difficult to capture through individual efficiency metrics alone.
